@@ -14,7 +14,7 @@ import os
 import random 
 import numpy as np
 import argparse
-# import wandb
+import wandb
 from losses import SSIMLoss
 from tqdm import tqdm
 
