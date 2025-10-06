@@ -1,4 +1,4 @@
-# CRUNet
+# CRUNet-MR
 
 Code Implementation of CRUNet-MR method.
 
