@@ -1,0 +1,14 @@
+h5py==3.8.0
+imageio==2.31.2
+mat73==0.62
+matplotlib @ file:///croot/matplotlib-suite_1667356714455/work
+numpy @ file:///opt/conda/conda-bld/numpy_and_numpy_base_1653915516269/work
+piq==0.8.0
+tensorboard==2.11.2
+torch==1.11.0
+torch-summary==1.4.5
+torchaudio==0.11.0
+torchkbnufft==0.3.4
+torchvision==0.12.0
+tqdm==4.66.1
+wandb==0.15.10
